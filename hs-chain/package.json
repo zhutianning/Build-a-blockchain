@@ -1,0 +1,15 @@
+{
+    "name": "hs-chain",
+    "version": "1.0.0",
+    "description": "lecture for bulid blockchain and cryptocurrency",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev-test": "nodemon dev-test"
+    },
+    "author": "zack.zhu",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^1.18.11"
+    }
+}
